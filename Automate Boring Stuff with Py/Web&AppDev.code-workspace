@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "HTML-CSS",
+			"path": "../../HTML-CSS"
+		},
+		{
+			"name": "Python programs",
+			"path": "."
+		},
+		{
+			"path": "../C files"
+		},
+		{
+			"path": "../JS programs"
+		}
+	]
+}
